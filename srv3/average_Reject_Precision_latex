@@ -1,0 +1,25 @@
+\addplot[color=green,mark=*] coordinates {
+(5,5)(10,10)(15,15)(20,20)(25,25)(30,30)(35,35)(40,40)(45,45)(50,50)(55,55)(60,60)(65,65)(70,70)
+};
+\addlegendentry{dial}
+
+\addplot[color=green,mark=*] coordinates {
+(5,null)(10,null)(15,null)(20,null)(25,null)(30,null)(35,null)(40,null)(45,null)(50,null)(55,0.6760949103955616)(60,0.6808015382729964)(65,0.6748036545165277)(70,0.6765822140201557)
+};
+\addlegendentry{Natural\_Neg}
+
+\addplot[color=green,mark=*] coordinates {
+(5,null)(10,null)(15,null)(20,null)(25,null)(30,null)(35,null)(40,null)(45,null)(50,null)(55,0.669818253935075)(60,0.7012490216237052)(65,0.7111822636944553)(70,0.7152888045416395)
+};
+\addlegendentry{Emb\_100}
+
+\addplot[color=green,mark=*] coordinates {
+(5,null)(10,null)(15,null)(20,null)(25,null)(30,null)(35,null)(40,null)(45,null)(50,null)(55,null)(60,null)(65,null)(70,null)
+};
+\addlegendentry{Emb\_50}
+
+\addplot[color=green,mark=*] coordinates {
+(5,null)(10,null)(15,null)(20,null)(25,null)(30,null)(35,0.5898414347735697)(40,0.5853194348258314)(45,0.6469292833377456)(50,0.6329227798602889)(55,0.6909330870779791)(60,0.6866316783978537)(65,0.6166205029504936)(70,0.6027674027924104)
+};
+\addlegendentry{NLU\_Tran\_All}
+
